@@ -17,7 +17,7 @@ I dagens uppgift ska ni få öva på state och callback-funktioner genom att ska
 
 3. Skapa jsx som ritar ut alla objekt som finns i arrayen i state. För detta används en map-funktion och en TodoItem-komponent. Varje TodoItem ska visa på ett grafiskt sätt om den är gjord eller inte gjord.
 
-4. TodoItem-komponenten ska ha en knapp som uppdaterar värdet: `done` i todo-objektet. Från false till true eller tvärtom. För detta används en callback funktion som tar ett id och ett done-värde som input.
+4. TodoItem-komponenten ska ha en knapp som uppdaterar värdet: `done` i todo-objektet från false till true eller tvärtom. För detta används en callback funktion som tar ett id och ett done-värde som input.
 
 5. TodoItem-komponenten ska ha en delete-knapp som raderar todo-objektet från state. För detta används en callback funktion som tar ett id som input.
 
